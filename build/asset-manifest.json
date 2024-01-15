@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kadai09_SNS_01/static/css/main.79f18b9b.css",
+    "main.js": "/kadai09_SNS_01/static/js/main.71135406.js",
+    "index.html": "/kadai09_SNS_01/index.html",
+    "main.79f18b9b.css.map": "/kadai09_SNS_01/static/css/main.79f18b9b.css.map",
+    "main.71135406.js.map": "/kadai09_SNS_01/static/js/main.71135406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f18b9b.css",
+    "static/js/main.71135406.js"
+  ]
+}
